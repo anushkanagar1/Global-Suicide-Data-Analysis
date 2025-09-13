@@ -1,4 +1,4 @@
-# 🌍 Global Suicide Rate Data Analysis
+# Suicide Rate Data Analysis
 
 ## 📌 Project Overview
 This project analyzes **global suicide rates across countries and age groups** to uncover trends, patterns, and potential insights.  
